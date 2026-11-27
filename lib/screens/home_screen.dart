@@ -20,7 +20,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
         shadowColor: fbTextColorWhite,
-        elevation: 2,
+        elevation: 1,
 
         title: CustomText(
           text: _getAppBarTitle(),
