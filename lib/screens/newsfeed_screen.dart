@@ -23,6 +23,70 @@ class NewsfeedScreen extends StatelessWidget {
           imagePath: 'assets/images/console.jpeg',
           avatarPath: 'assets/images/profile.jpeg',
         ),
+
+        NewsfeedCard(
+          userName: 'Jason Momoa',
+          postContent: 'If anything happens, Im Right behind you.',
+          date: '1 hour ago',
+          numOfLikes: 10,
+          avatarPath: 'assets/images/profile.jpeg',
+        ),
+
+        NewsfeedCard(
+          userName: 'Jason Momoa',
+          postContent: 'If anything happens, Im Right behind you.',
+          date: '1 hour ago',
+          numOfLikes: 10,
+          avatarPath: 'assets/images/profile.jpeg',
+        ),
+
+        NewsfeedCard(
+          userName: 'Jason Momoa',
+          postContent: 'If anything happens, Im Right behind you.',
+          date: '1 hour ago',
+          numOfLikes: 10,
+          avatarPath: 'assets/images/profile.jpeg',
+        ),
+
+        NewsfeedCard(
+          userName: 'Jason Momoa',
+          postContent: 'If anything happens, Im Right behind you.',
+          date: '1 hour ago',
+          numOfLikes: 10,
+          avatarPath: 'assets/images/profile.jpeg',
+        ),
+
+        NewsfeedCard(
+          userName: 'Jason Momoa',
+          postContent: 'If anything happens, Im Right behind you.',
+          date: '1 hour ago',
+          numOfLikes: 10,
+          avatarPath: 'assets/images/profile.jpeg',
+        ),
+
+        NewsfeedCard(
+          userName: 'Jason Momoa',
+          postContent: 'If anything happens, Im Right behind you.',
+          date: '1 hour ago',
+          numOfLikes: 10,
+          avatarPath: 'assets/images/profile.jpeg',
+        ),
+
+        NewsfeedCard(
+          userName: 'Jason Momoa',
+          postContent: 'If anything happens, Im Right behind you.',
+          date: '1 hour ago',
+          numOfLikes: 10,
+          avatarPath: 'assets/images/profile.jpeg',
+        ),
+
+        NewsfeedCard(
+          userName: 'Jason Momoa',
+          postContent: 'If anything happens, Im Right behind you.',
+          date: '1 hour ago',
+          numOfLikes: 10,
+          avatarPath: 'assets/images/profile.jpeg',
+        ),
       ],
     );
   }

@@ -2,6 +2,7 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:quinto_labact1a/screens/home_screen.dart';
 import 'package:quinto_labact1a/screens/newsfeed_screen.dart';
 import 'package:material_ui/material_ui.dart';
+import 'package:quinto_labact1a/screens/notification_screen.dart';
 
 void main() {
   runApp(const MainApp());
@@ -24,6 +25,7 @@ class MainApp extends StatelessWidget {
           routes: {
             "/newsfeed": (context) => const NewsfeedScreen(),
             "/home": (context) => const HomeScreen(),
+            "/notifications": (context) => const NotificationScreen(),
           },
         ); // MaterialApp
       },
